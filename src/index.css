@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.font{
+    font-family: "Science Gothic", sans-serif;
+}
+
+.font2{
+    font-family: "Playfair Display", serif;
+}
+
+.font3{
+    font-family: "Caveat", cursive;
+}
